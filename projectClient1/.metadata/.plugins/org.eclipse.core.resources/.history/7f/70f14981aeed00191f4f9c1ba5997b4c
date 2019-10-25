@@ -1,0 +1,14 @@
+package com.zjh.project1;
+
+import java.io.PrintStream;
+import org.omg.CORBA.TypeCode;
+import org.omg.CORBA.portable.InputStream;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		PrintStream ps=new PrintStream(new )
+	}
+
+}

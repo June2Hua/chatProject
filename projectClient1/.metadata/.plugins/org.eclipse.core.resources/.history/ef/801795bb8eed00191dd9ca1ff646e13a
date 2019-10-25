@@ -1,0 +1,13 @@
+package com.zjh.project2_;
+
+import java.io.File;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		File file=new File("D:\\test");
+		file.mkdir();
+	}
+
+}
